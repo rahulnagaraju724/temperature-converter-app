@@ -52,7 +52,7 @@ Snapshot 1: - 40 Degree Celsius to Fahrenheit
 
 Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
 
-<p float="left">
+<p align="center>
   <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 3" width="45%">
   <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/b158a9d1-152b-4eed-ac12-059c5e925964" alt="Snapshot 4" width="45%">
 </p>
@@ -61,7 +61,7 @@ Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
 
 Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
   
-<p float="left">
+<p align="center">
   <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/e3bea266-c43b-446b-8e26-99867d8660a5" alt="Snapshot 5" width="45%">
   <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/58493e1a-353c-4826-a12c-f558f71398bb" alt="Snapshot 6" width="45%">
 </p>
@@ -70,10 +70,10 @@ Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
 
 Snapshot 4 : Temp < 0 F -> Red Background and Frosty Image
 
-
-![7](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/5de9e0cf-f67a-48b2-8558-b95f6c3c1616)
-
-![8](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/0dd4eab2-e970-467f-97d4-6d7455a9d0df)
+<p align="center">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/5de9e0cf-f67a-48b2-8558-b95f6c3c1616" alt="Snapshot 7" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/0dd4eab2-e970-467f-97d4-6d7455a9d0df" alt="Snapshot 8" width="45%">
+</p>
 
 
 Snapshot 5: Icon for the App in Home Screen
@@ -88,10 +88,6 @@ Snapshot 6: Design for Activity_Main XML
 
 ![Screenshot 2024-02-03 at 10 32 32 PM](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/3174b4b3-4b46-443d-a98c-cf812db3addb)
 </div>
-
-### Snapshots
-
-
 
 For more details about the implementation and usage of the TempConverter application, refer to the source code and documentation.
 
