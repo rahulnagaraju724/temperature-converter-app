@@ -33,11 +33,13 @@ The temperature conversion logic is implemented in the `ConverterUtil` utility c
 
 ### Notes
 
-- The background color of the layout changes dynamically to visually represent temperature ranges:
+- The background color of the layout changes dynamically to visually represent temperature ranges in F(C is converted to F and displayed after conversion):
   - Blue: Indicates temperatures above 90 degrees Fahrenheit.
   - Yellow: Indicates temperatures between 0 and 90 degrees Fahrenheit.
   - Red: Indicates temperatures below 0 degrees Fahrenheit.
 - Images (e.g., sun or frost) are displayed in the ImageView based on the temperature range.
+  - Sun: Indicates it is above 90 F
+  - Frost: Indicates it is below 0 F 
 
 ### Snapshots
 
