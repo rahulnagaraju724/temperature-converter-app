@@ -43,26 +43,28 @@ The temperature conversion logic is implemented in the `ConverterUtil` utility c
 
 Snapshot 1: - 40 Degree Celsius to Fahrenheit
 
-![1](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3)
 
-![2](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/be2fd37d-3697-43fc-8968-9f2faa0dc357)
-
+<p align="center">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3" alt="Snapshot 1" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/be2fd37d-3697-43fc-8968-9f2faa0dc357" alt="Snapshot 2" width="45%">
+</p>
 
 
 Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
 
-![3](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0)
-
-
-![4](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/b158a9d1-152b-4eed-ac12-059c5e925964)
+<p float="left">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 3" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/b158a9d1-152b-4eed-ac12-059c5e925964" alt="Snapshot 4" width="45%">
+</p>
 
 
 
 Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
   
-![5](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/e3bea266-c43b-446b-8e26-99867d8660a5)
-
-![6](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/58493e1a-353c-4826-a12c-f558f71398bb)
+<p float="left">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/e3bea266-c43b-446b-8e26-99867d8660a5" alt="Snapshot 5" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/58493e1a-353c-4826-a12c-f558f71398bb" alt="Snapshot 6" width="45%">
+</p>
 
 
 
@@ -85,31 +87,10 @@ Snapshot 6: Design for Activity_Main XML
 
 
 ![Screenshot 2024-02-03 at 10 32 32 PM](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/3174b4b3-4b46-443d-a98c-cf812db3addb)
-
-### Snapshots
-
-<div style="display: flex; justify-content: space-between;">
-
-<!-- Snapshot 1: -40 Degree Celsius to Fahrenheit -->
-<div>
-    <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3" alt="Snapshot 1" width="300">
-    <p>Snapshot 1: -40 Degree Celsius to Fahrenheit</p>
-</div>
-
-<!-- Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image. -->
-<div>
-    <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 2" width="300">
-    <p>Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.</p>
-</div>
-
 </div>
 
 ### Snapshots
 
-<p align="center">
-  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3" alt="Snapshot 1" width="45%">
-  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 2" width="45%">
-</p>
 
 
 For more details about the implementation and usage of the TempConverter application, refer to the source code and documentation.
