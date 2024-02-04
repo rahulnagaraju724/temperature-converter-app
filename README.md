@@ -57,6 +57,9 @@ Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
   <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/21d3ebbc-f5db-46f5-89c6-6964d45dc42d" alt="Snapshot 4" width="45%">
 </p>
 
+![3](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/4248abed-ba1d-44fd-90d7-a611e5e9a8b3)
+
+![4](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/6ae5880f-460a-4a1b-8c95-19dec7091d62)
 
 Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
   
