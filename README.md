@@ -42,14 +42,20 @@ The temperature conversion logic is implemented in the `ConverterUtil` utility c
 ### Snapshots
 
 Snapshot 1: - 40 Degree Celsius to Fahrenheit
+
 ![1](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3)
+
 ![2](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/be2fd37d-3697-43fc-8968-9f2faa0dc357)
 
 
+
 Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
+
 ![3](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0)
 
+
 ![4](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/b158a9d1-152b-4eed-ac12-059c5e925964)
+
 
 
 Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
@@ -59,7 +65,9 @@ Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
 ![6](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/58493e1a-353c-4826-a12c-f558f71398bb)
 
 
+
 Snapshot 4 : Temp < 0 F -> Red Background and Frosty Image
+
 
 ![7](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/5de9e0cf-f67a-48b2-8558-b95f6c3c1616)
 
@@ -68,12 +76,15 @@ Snapshot 4 : Temp < 0 F -> Red Background and Frosty Image
 
 Snapshot 5: Icon for the App in Home Screen
 
+
 ![11](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd3cd0fe-3c97-40d5-83bf-b0738dd9c974)
 
 
 
 Snapshot 6: Design for Activity_Main XML
-![image](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/aa39ae8e-84e6-44a7-8ad3-3e15b8263b10)
+
+
+![Screenshot 2024-02-03 at 10 32 32 PM](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/3174b4b3-4b46-443d-a98c-cf812db3addb)
 
 
 For more details about the implementation and usage of the TempConverter application, refer to the source code and documentation.
