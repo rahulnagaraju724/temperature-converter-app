@@ -104,6 +104,13 @@ Snapshot 6: Design for Activity_Main XML
 
 </div>
 
+### Snapshots
+
+<p align="center">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3" alt="Snapshot 1" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 2" width="45%">
+</p>
+
 
 For more details about the implementation and usage of the TempConverter application, refer to the source code and documentation.
 
