@@ -53,10 +53,9 @@ Snapshot 1: - 40 Degree Celsius to Fahrenheit
 Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.
 
 <p align="center>
-  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 3" width="45%">
-  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/b158a9d1-152b-4eed-ac12-059c5e925964" alt="Snapshot 4" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/c410d1a1-5b96-4e19-9d1a-e7f41f5248c9" alt="Snapshot 3" width="45%">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/21d3ebbc-f5db-46f5-89c6-6964d45dc42d" alt="Snapshot 4" width="45%">
 </p>
-
 
 
 Snapshot 3: Temp < 90F i.e., 86 F to C. Set Yellow Background, but no Image
