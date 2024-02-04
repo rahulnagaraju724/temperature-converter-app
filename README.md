@@ -41,7 +41,7 @@ The temperature conversion logic is implemented in the `ConverterUtil` utility c
 
 ### Snapshots
 
-Snapshot 1: - 40 Degree Celsius to Fahrenheit
+Snapshot 1: 40 Degree Celsius to Fahrenheit
 
 
 <p align="center">
