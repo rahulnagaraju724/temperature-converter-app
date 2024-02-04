@@ -86,6 +86,24 @@ Snapshot 6: Design for Activity_Main XML
 
 ![Screenshot 2024-02-03 at 10 32 32 PM](https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/3174b4b3-4b46-443d-a98c-cf812db3addb)
 
+### Snapshots
+
+<div style="display: flex; justify-content: space-between;">
+
+<!-- Snapshot 1: -40 Degree Celsius to Fahrenheit -->
+<div>
+    <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/45d98a53-9b95-4321-ad5c-aa2628da19e3" alt="Snapshot 1" width="300">
+    <p>Snapshot 1: -40 Degree Celsius to Fahrenheit</p>
+</div>
+
+<!-- Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image. -->
+<div>
+    <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd10ef2e-6c8e-4ea8-899d-cca98c12d1a0" alt="Snapshot 2" width="300">
+    <p>Snapshot 2: Temp > 90 F. Set Blue Background and Sun Image.</p>
+</div>
+
+</div>
+
 
 For more details about the implementation and usage of the TempConverter application, refer to the source code and documentation.
 
