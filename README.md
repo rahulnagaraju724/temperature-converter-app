@@ -77,7 +77,7 @@ Snapshot 4 : Temp < 0 F -> Red Background and Frosty Image
 Snapshot 5: Icon for the App in Home Screen
 
 <p align="center">
-  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd3cd0fe-3c97-40d5-83bf-b0738dd9c974" alt="Snapshot 11">
+  <img src="https://github.com/rahulnagaraju724/Android-Studio/assets/143856412/fd3cd0fe-3c97-40d5-83bf-b0738dd9c974" alt="Snapshot 11" width="75%">
 </p>
 
 
