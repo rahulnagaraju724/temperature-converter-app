@@ -1,7 +1,7 @@
 /*
 --------------------------------------------------------------------
 - Author Rahul Nagaraju
-- Assignment: Lab1
+- Assignment: Lab2
 - FileName: MainActivity.java
 - Course: ITMD-555 Intelligent Device Applications
 - Instructor: James Papademas
@@ -76,14 +76,17 @@ public class MainActivity extends AppCompatActivity {
 
             // Checking which radio button is checked and performing temperature conversion
             if (celsiusButton.isChecked()) {
-                text.setText(String.valueOf(ConverterUtil.convertFahrenheitToCelsius(inputValue)));
+                text.setText(String.valueOf(ConverterUtil.convertCelsiusToFahrenheit(inputValue)));
+                Toast.makeText(this, "Temp converted from " +inputValue+" C to F: "+String.valueOf(ConverterUtil.convertCelsiusToFahrenheit(inputValue)), Toast.LENGTH_LONG).show();
                 celsiusButton.setChecked(false);
                 fahrenheitButton.setChecked(true);
+                inputValue = (float) ConverterUtil.convertCelsiusToFahrenheit(inputValue); // Update input value
             } else {
-                text.setText(String.valueOf(ConverterUtil.convertCelsiusToFahrenheit(inputValue)));
+                text.setText(String.valueOf(ConverterUtil.convertFahrenheitToCelsius(inputValue)));
+                Toast.makeText(this, "Temp converted from " +inputValue+" F to C: "+String.valueOf(ConverterUtil.convertFahrenheitToCelsius(inputValue)), Toast.LENGTH_LONG).show();
                 fahrenheitButton.setChecked(false);
                 celsiusButton.setChecked(true);
-                inputValue = (float) ConverterUtil.convertCelsiusToFahrenheit(inputValue); // Update input value
+
             }
 
             // Setting background color and image based on temperature value
